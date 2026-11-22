@@ -6,3 +6,10 @@
 
 To login into Facebook, "Click submit"
 To login into Facebook, "click_submit_.
+# table
+## alignment
+- Cente alignment
+- left alignment
+- right alignment
+
+added a new line
